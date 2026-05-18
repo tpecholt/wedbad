@@ -1,1 +1,1 @@
-[{"bets":0,"id":1,"players":["Updating..."],"team1Won":true,"used":0},{"bets":0,"id":926683660,"players":["potr","ku"],"team1Won":true,"used":2}]
+[{"bets":0,"id":926683660,"players":["potr","ku"],"team1Won":true,"used":2}]
