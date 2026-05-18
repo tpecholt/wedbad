@@ -1,1 +1,1 @@
-[{"bets":0,"id":926683660,"players":["pooo","ku"],"team1Won":true,"used":2}]
+[{"bets":0,"id":926683660,"players":["pooo","ku"],"team1Won":true,"used":2},{"bets":0,"id":955192730,"players":["",""],"team1Won":true,"used":1}]
